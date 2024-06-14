@@ -1,0 +1,26 @@
+//API: http://localhost:4000/api/organization/organization
+//Method : POST
+Request body 
+{
+  "sector": "ChlorAlkali",
+  "subSector": "chekmical",
+  "organizationName": "TechCorp",
+  "yearOfEstablishment": 2000,
+  "email": "info@techcorp.com",
+  "address": {
+    "addressLine": "123 Tech Street",
+    "city": "TechCity",
+    "state": "TechState",
+    "district": "TechDistrict",
+    "pinCode": "12345"
+  },
+  "contact": {
+    "mobile": "1234567890"
+  },
+  "registrationDetails": {
+    "PAN": "ABCDE1234F",
+    "TAN": "TAN1234567",
+    "GSTIN": "GSTIN12345"
+  },
+  "userID" : "65a222cd06d7f2866cf43790"
+}

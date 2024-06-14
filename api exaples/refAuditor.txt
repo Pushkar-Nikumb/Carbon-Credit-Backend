@@ -1,0 +1,7 @@
+//API: http://localhost:4000/api/referenceAuditor/reference_auditor
+//Method : POST
+Request body 
+{
+    "registrationNumber" : "EA948097",
+    "organizationalID" : "65a3c3f5f96c4af20117fa66"
+}

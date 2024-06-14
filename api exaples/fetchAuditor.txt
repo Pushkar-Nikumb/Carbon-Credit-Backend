@@ -1,0 +1,6 @@
+//API: http://localhost:4000/api/fetch_auditor/fetch_auditor
+//Method : POST
+Request body 
+{
+    "registrationNumber" : "EA456879"
+}

@@ -1,0 +1,10 @@
+//API: http://localhost:4000/api/add_auditor/add_auditor
+//Method : POST
+Request body 
+{
+  "registrationNumber": "EA456879",
+  "name": "Samruddhi Pacchore",
+  "phone": "225698",
+  "mobile": "9423319031",
+  "email": "samruddhipachore74@gmail.com"
+}
